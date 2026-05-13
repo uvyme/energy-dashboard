@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+refresh.log
+.streamlit/secrets.toml
+.DS_Store
+
+# Track parquets — Streamlit Cloud reads them, GitHub Actions writes them
+# (so DO NOT ignore data/*.parquet)

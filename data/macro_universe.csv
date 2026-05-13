@@ -1,0 +1,17 @@
+ticker,name,role
+GLD,Gold ETF,gold
+SLV,Silver ETF,silver
+USO,US Oil Fund,wti_proxy
+BNO,US Brent Oil Fund,brent_proxy
+UNG,Natural Gas Fund,natgas_proxy
+COPX,Global Copper Miners,copper_proxy
+TLT,20+ Yr Treasury,long_bonds
+IEF,7-10 Yr Treasury,intermediate_bonds
+SHY,1-3 Yr Treasury,short_bonds
+TIP,TIPS,tips
+UUP,Dollar Bullish,dxy_proxy
+^VIX,VIX,vix
+^MOVE,MOVE Index,move
+SPY,S&P 500,spx
+XLE,Energy Sector,energy_sector
+HYG,High Yield Bond,hy_credit

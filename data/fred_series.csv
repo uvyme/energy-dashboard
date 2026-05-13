@@ -1,0 +1,16 @@
+series_id,name,role
+DFII10,10-Year Real Yield,real_yield_10y
+DFII5,5-Year Real Yield,real_yield_5y
+T10Y2Y,10Y-2Y Spread,curve_2s10s
+T10Y3M,10Y-3M Spread,curve_10y3m
+DGS10,10-Year Nominal,nominal_10y
+DGS2,2-Year Nominal,nominal_2y
+SOFR,Secured Overnight Rate,sofr
+IORB,Interest on Reserve Balances,iorb
+DTWEXBGS,Broad Dollar Index,dxy_broad
+WALCL,Fed Balance Sheet,fed_balance_sheet
+RRPONTSYD,Reverse Repo,rrp
+WTREGEN,Treasury General Account,tga
+BAMLH0A0HYM2,HY OAS,hy_oas
+DCOILWTICO,WTI Cushing Spot,wti_spot
+DCOILBRENTEU,Brent Spot,brent_spot
