@@ -7,40 +7,62 @@ TTE,TotalEnergies,integrated_majors
 EQNR,Equinor,integrated_majors
 E,Eni SpA,integrated_majors
 PBR,Petrobras,integrated_majors
+PBR-A,Petrobras Pref,integrated_majors
 SU,Suncor Energy,integrated_majors
 CNQ,Canadian Natural Resources,integrated_majors
 IMO,Imperial Oil,integrated_majors
+CVE,Cenovus Energy,integrated_majors
+MEG,MEG Energy,integrated_majors
+VET,Vermilion Energy,integrated_majors
+WDS,Woodside Energy,integrated_majors
+REPYY,Repsol SA ADR,integrated_majors
+YPF,YPF Sociedad Anonima,integrated_majors
+EC,Ecopetrol,integrated_majors
 COP,ConocoPhillips,large_cap_ep
 EOG,EOG Resources,large_cap_ep
 OXY,Occidental Petroleum,large_cap_ep
 FANG,Diamondback Energy,large_cap_ep
 DVN,Devon Energy,large_cap_ep
-HES,Hess Corp,large_cap_ep
-MRO,Marathon Oil,large_cap_ep
 APA,APA Corp,large_cap_ep
 CTRA,Coterra Energy,large_cap_ep
 OVV,Ovintiv,large_cap_ep
 AR,Antero Resources,large_cap_ep
 RRC,Range Resources,large_cap_ep
 EQT,EQT Corp,large_cap_ep
+EXE,Expand Energy,large_cap_ep
 PR,Permian Resources,large_cap_ep
 CHRD,Chord Energy,large_cap_ep
 MTDR,Matador Resources,large_cap_ep
+CRGY,Crescent Energy,large_cap_ep
+MUR,Murphy Oil,large_cap_ep
+CRC,California Resources,large_cap_ep
 SM,SM Energy,small_mid_ep
 TALO,Talos Energy,small_mid_ep
 REPX,Riley Exploration Permian,small_mid_ep
 BATL,Battalion Oil,small_mid_ep
 MGY,Magnolia Oil & Gas,small_mid_ep
-CRGY,Crescent Energy,small_mid_ep
-MUR,Murphy Oil,small_mid_ep
-CIVI,Civitas Resources,small_mid_ep
-CPE,Callon Petroleum,small_mid_ep
-VTLE,Vital Energy,small_mid_ep
 NOG,Northern Oil and Gas,small_mid_ep
-SBOW,SilverBow Resources,small_mid_ep
 KOS,Kosmos Energy,small_mid_ep
 GPRK,GeoPark,small_mid_ep
-BRY,Berry Corporation,small_mid_ep
+GPOR,Gulfport Energy,small_mid_ep
+HPK,HighPeak Energy,small_mid_ep
+NFE,New Fortress Energy,small_mid_ep
+AMPY,Amplify Energy,small_mid_ep
+SD,SandRidge Energy,small_mid_ep
+REI,Ring Energy,small_mid_ep
+EGY,Vaalco Energy,small_mid_ep
+PNRG,PrimeEnergy Resources,small_mid_ep
+TPL,Texas Pacific Land,royalty_trusts
+VNOM,Viper Energy Partners,royalty_trusts
+BSM,Black Stone Minerals,royalty_trusts
+KRP,Kimbell Royalty Partners,royalty_trusts
+DMLP,Dorchester Minerals,royalty_trusts
+SBR,Sabine Royalty Trust,royalty_trusts
+SJT,San Juan Basin Royalty,royalty_trusts
+PBT,Permian Basin Royalty Trust,royalty_trusts
+MVO,MV Oil Trust,royalty_trusts
+NRP,Natural Resource Partners,royalty_trusts
+DEC,Diversified Energy,royalty_trusts
 VLO,Valero Energy,refiners
 MPC,Marathon Petroleum,refiners
 PSX,Phillips 66,refiners
@@ -56,44 +78,62 @@ DHT,DHT Holdings,crude_tankers
 TNK,Teekay Tankers,crude_tankers
 NAT,Nordic American Tankers,crude_tankers
 IMPP,Imperial Petroleum,crude_tankers
+TEN,Tsakos Energy Navigation,crude_tankers
+PXS,Pyxis Tankers,crude_tankers
 TRMD,TORM,product_tankers
 ASC,Ardmore Shipping,product_tankers
-HAFNF,Hafnia,product_tankers
 TK,Teekay Corp,product_tankers
+NMM,Navios Maritime Partners,product_tankers
 FLNG,FLEX LNG,lng_carriers
 GLNG,Golar LNG,lng_carriers
 LNG,Cheniere Energy,lng_carriers
-TGP,Teekay LNG Partners,lng_carriers
+CQP,Cheniere Energy Partners,lng_carriers
+VG,Venture Global,lng_carriers
+GTLS,Chart Industries,lng_carriers
+NFG,National Fuel Gas,lng_carriers
 GASS,StealthGas,lng_carriers
 ET,Energy Transfer,midstream
 EPD,Enterprise Products,midstream
 MPLX,MPLX LP,midstream
 WMB,Williams Companies,midstream
-KMI,Kinder Morgan,midstream
 OKE,ONEOK,midstream
 PAA,Plains All American,midstream
 ENB,Enbridge,midstream
 TRP,TC Energy,midstream
 TRGP,Targa Resources,midstream
 AM,Antero Midstream,midstream
-ENLC,EnLink Midstream,midstream
 WES,Western Midstream,midstream
+HESM,Hess Midstream,midstream
+GEL,Genesis Energy,midstream
+DKL,Delek Logistics,midstream
+GLP,Global Partners,midstream
+AROC,Archrock,midstream
+USAC,USA Compression,midstream
+PAGP,Plains GP Holdings,midstream
 SLB,Schlumberger,oilfield_services
 HAL,Halliburton,oilfield_services
 BKR,Baker Hughes,oilfield_services
 NOV,NOV Inc,oilfield_services
 WFRD,Weatherford,oilfield_services
-CHX,ChampionX,oilfield_services
 LBRT,Liberty Energy,oilfield_services
 PUMP,ProPetro,oilfield_services
-NEX,NexTier Oilfield,oilfield_services
 OII,Oceaneering Intl,oilfield_services
+FTI,TechnipFMC,oilfield_services
+TS,Tenaris,oilfield_services
+PTEN,Patterson-UTI Energy,oilfield_services
+CLB,Core Laboratories,oilfield_services
+HLX,Helix Energy Solutions,oilfield_services
+RES,RPC Inc,oilfield_services
+WTTR,Select Water Solutions,oilfield_services
+NINE,Nine Energy Service,oilfield_services
+KGS,Kodiak Gas Services,oilfield_services
+USEG,US Energy Corp,oilfield_services
+INVX,Innovex Downhole,oilfield_services
 RIG,Transocean,offshore_drillers
 VAL,Valaris,offshore_drillers
 NE,Noble Corp,offshore_drillers
 BORR,Borr Drilling,offshore_drillers
 TDW,Tidewater,offshore_drillers
-DO,Diamond Offshore,offshore_drillers
 SDRL,Seadrill,offshore_drillers
 CF,CF Industries,fertilizers_nitrogen
 MOS,Mosaic,fertilizers_nitrogen
@@ -102,19 +142,24 @@ UAN,CVR Partners,fertilizers_nitrogen
 IPI,Intrepid Potash,fertilizers_nitrogen
 ICL,ICL Group,fertilizers_nitrogen
 SMG,Scotts Miracle-Gro,fertilizers_nitrogen
+LXU,LSB Industries,fertilizers_nitrogen
+FMC,FMC Corporation,fertilizers_nitrogen
 BTU,Peabody Energy,coal
-ARCH,Arch Resources,coal
 HCC,Warrior Met Coal,coal
-CEIX,CONSOL Energy,coal
 AMR,Alpha Metallurgical,coal
 HNRG,Hallador Energy,coal
 METC,Ramaco Resources,coal
 ARLP,Alliance Resource Partners,coal
+SXC,SunCoke Energy,coal
+NC,NACCO Industries,coal
 XLE,SPDR Energy Select,etf_anchor
 XOP,S&P Oil & Gas E&P,etf_anchor
 OIH,Oil Services ETF,etf_anchor
 AMLP,Alerian MLP,etf_anchor
-KOL,Coal ETF,etf_anchor
 CRAK,Oil Refiners ETF,etf_anchor
 IXC,Global Energy ETF,etf_anchor
 PXE,Dynamic Energy E&P,etf_anchor
+FCG,Natural Gas ETF,etf_anchor
+IEO,Oil & Gas E&P ETF,etf_anchor
+IEZ,Oil Equipment ETF,etf_anchor
+FILL,Oil & Gas ETF,etf_anchor

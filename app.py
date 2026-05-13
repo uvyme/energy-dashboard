@@ -45,6 +45,7 @@ SUB = {
     "integrated_majors":   "Integrated Majors",
     "large_cap_ep":        "Large-Cap E&P",
     "small_mid_ep":        "Small/Mid E&P",
+    "royalty_trusts":      "Mineral / Royalty Trusts",
     "refiners":            "Refiners",
     "crude_tankers":       "Crude Tankers",
     "product_tankers":     "Product Tankers",
@@ -53,12 +54,7 @@ SUB = {
     "oilfield_services":   "Oilfield Services",
     "offshore_drillers":   "Offshore Drillers",
     "fertilizers_nitrogen":"Fertilizers",
-    "uranium_nuclear":     "Uranium / Nuclear",
     "coal":                "Coal",
-    "solar":               "Solar",
-    "wind_renewables":     "Wind / Renewables",
-    "battery_lithium":     "Battery / Lithium",
-    "hydrogen_fuelcell":   "Hydrogen",
     "etf_anchor":          "ETF Anchor",
 }
 
@@ -639,6 +635,7 @@ SECTOR_LABEL = {
     "integrated_majors":    "Integrated Majors",
     "large_cap_ep":         "Large-Cap E&P",
     "small_mid_ep":         "Small/Mid E&P",
+    "royalty_trusts":       "Mineral / Royalty Trusts",
     "refiners":             "Refiners",
     "crude_tankers":        "Crude Tankers",
     "product_tankers":      "Product Tankers",
